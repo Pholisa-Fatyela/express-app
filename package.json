@@ -1,0 +1,22 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pholisa-Fatyela/express-app.git"
+  },
+  "author": "Pholisa Fatyela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pholisa-Fatyela/express-app/issues"
+  },
+  "homepage": "https://github.com/Pholisa-Fatyela/express-app#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
